@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net9.0": {
       "Microsoft.AspNetCore.Authorization/8.0.16": {
         "type": "package",
         "dependencies": {
@@ -421,7 +421,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.16": {
+      "Microsoft.NET.ILLink.Tasks/9.0.5": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -451,7 +451,7 @@
         }
       }
     },
-    "net8.0/browser-wasm": {
+    "net9.0/browser-wasm": {
       "Microsoft.AspNetCore.Authorization/8.0.16": {
         "type": "package",
         "dependencies": {
@@ -871,7 +871,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.16": {
+      "Microsoft.NET.ILLink.Tasks/9.0.5": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -1713,10 +1713,10 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.16": {
-      "sha512": "0H1QaKpVibe++Zx6EYJQGhrpfz2bBPGiQ7Rpsmx8I3+oKv+ZRRIfVfmcj50KuZlhhRE6V02y5bUjP+V2oPM2ng==",
+    "Microsoft.NET.ILLink.Tasks/9.0.5": {
+      "sha512": "4L7wbb3Y4BJgIeSnmAf/C6S/qCs9rT1b0dX72uj3qo0qvUH7D0U1tU5ZlC7A3Wb8E/dXK4caOi4JkdLTVJaXhw==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.16",
+      "path": "microsoft.net.illink.tasks/9.0.5",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1730,7 +1730,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
+        "microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -1748,19 +1748,19 @@
         "tools/net472/build/Microsoft.NET.ILLink.Analyzers.props",
         "tools/net472/build/Microsoft.NET.ILLink.Tasks.props",
         "tools/net472/build/Microsoft.NET.ILLink.targets",
-        "tools/net8.0/ILLink.Tasks.deps.json",
-        "tools/net8.0/ILLink.Tasks.dll",
-        "tools/net8.0/Mono.Cecil.Mdb.dll",
-        "tools/net8.0/Mono.Cecil.Pdb.dll",
-        "tools/net8.0/Mono.Cecil.Rocks.dll",
-        "tools/net8.0/Mono.Cecil.dll",
-        "tools/net8.0/Sdk/Sdk.props",
-        "tools/net8.0/build/Microsoft.NET.ILLink.Analyzers.props",
-        "tools/net8.0/build/Microsoft.NET.ILLink.Tasks.props",
-        "tools/net8.0/build/Microsoft.NET.ILLink.targets",
-        "tools/net8.0/illink.deps.json",
-        "tools/net8.0/illink.dll",
-        "tools/net8.0/illink.runtimeconfig.json",
+        "tools/net9.0/ILLink.Tasks.deps.json",
+        "tools/net9.0/ILLink.Tasks.dll",
+        "tools/net9.0/Mono.Cecil.Mdb.dll",
+        "tools/net9.0/Mono.Cecil.Pdb.dll",
+        "tools/net9.0/Mono.Cecil.Rocks.dll",
+        "tools/net9.0/Mono.Cecil.dll",
+        "tools/net9.0/Sdk/Sdk.props",
+        "tools/net9.0/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net9.0/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net9.0/build/Microsoft.NET.ILLink.targets",
+        "tools/net9.0/illink.deps.json",
+        "tools/net9.0/illink.dll",
+        "tools/net9.0/illink.runtimeconfig.json",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -1837,10 +1837,10 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net9.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.16",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.16",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.16",
+      "Microsoft.NET.ILLink.Tasks >= 9.0.5",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.5"
     ]
   },
@@ -1866,15 +1866,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -1891,8 +1891,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
@@ -1906,7 +1906,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.16, )",
+            "version": "[9.0.5, )",
             "autoReferenced": true
           },
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
@@ -1930,7 +1930,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[8.0.16, 8.0.16]"
+            "version": "[9.0.5, 9.0.5]"
           }
         ],
         "frameworkReferences": {

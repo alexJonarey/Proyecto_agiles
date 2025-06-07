@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u2F3+C1v8Fs=",
+  "dgSpecHash": "lVePTSNS2Kk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jonat\\source\\repos\\Proyectoagiles\\Proyectoagiles.csproj",
   "expectedPackageFiles": [
@@ -28,10 +28,10 @@
     "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.jsinterop\\8.0.16\\microsoft.jsinterop.8.0.16.nupkg.sha512",
     "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.16\\microsoft.jsinterop.webassembly.8.0.16.nupkg.sha512",
-    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.5\\microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
     "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.5\\microsoft.net.sdk.webassembly.pack.9.0.5.nupkg.sha512",
     "C:\\Users\\Jonat\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.16\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.16.nupkg.sha512"
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.5.nupkg.sha512"
   ],
   "logs": []
 }
